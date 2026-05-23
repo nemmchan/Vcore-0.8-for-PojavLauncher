@@ -8,7 +8,7 @@ Leak By dsc.gg/hitech
 Remap & Decompile by FTL2nd 
 # Note 
 File này được leak từ người khác tôi **KHÔNG CHỊU TRÁCH NHIỆM NẾU BẠN BỊ DÍNH MALWARE/RAT**
-Nếu bạn thích vọc vạch để skid thì hay lấy Source Code ở đây 
+Nếu bạn thích vọc vạch để skid thì hãy lấy Source Code ở đây 
 https://github.com/ftl2ndofficial/VCore-0.8
 
 
